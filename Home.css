@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.link {
+    margin: 1.5% 20px;
+    text-align: center;
+    float: right; 
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.link:hover {
+    background-color: rgb(199, 0, 40);
+}
+.link:active {
+    background-color: rgb(167, 3, 36);
+}
+header {
+    padding: 5px 10px;
+    background-color: crimson;
+    color: white;
+}
+h4{
+    padding-left: 15px;;
+}
+img {
+    float: right;
+    margin: 25px 50px;
+}
+h3 {
+    margin: 175px 50% 175px 50px;
+    padding: 10px;
+    background-color: crimson;
+    color: white;
+    border-radius: 10px;
+}
+
+/* Made By Pratha Gupta Of Class 7-I */
